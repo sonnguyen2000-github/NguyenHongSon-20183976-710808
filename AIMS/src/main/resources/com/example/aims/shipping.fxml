@@ -128,7 +128,7 @@
                         <Insets bottom="70.0" />
                     </VBox.margin>
                 </TextField>
-            <CheckBox mnemonicParsing="false" text="Rush Order" fx:id="rushCheckBox">
+            <CheckBox fx:id="rushCheckBox" mnemonicParsing="false" text="Rush Order">
                <VBox.margin>
                   <Insets left="-200.0" />
                </VBox.margin>
