@@ -38,10 +38,11 @@ public class RushInfo{
 
     /**
      * Full constructor
+     *
      * @param instruction for rush instruction
-     * @param time rush time
+     * @param time        rush time
      */
-    RushInfo(String instruction, Date time){
+    public RushInfo(String instruction, Date time){
         this.setInstruction(instruction);
         this.setTime(time);
     }
@@ -51,7 +52,7 @@ public class RushInfo{
      * @param instruction rush instruction
      * @param time time, in format yyyy/MM/dd HH:mm:ss
      */
-    RushInfo(String instruction, String time){
+    public RushInfo(String instruction, String time){
         //after refactoring
         try{
             this.setTime(time);
@@ -63,14 +64,14 @@ public class RushInfo{
         }
 
         //before refactoring
-//        try{
-//            this.setTime(FORMATTER.format(time));// parse when constructing, but then there is setTime(time: String)
-//            this.setInstruction(instruction);
-//        }catch(ParseException e){
-//            e.printStackTrace();
-//
-//            LOGGER.info("Rush time must be yyyy/MM/dd HH:mm:ss");
-//        }
+        //        try{
+        //            this.setTime(FORMATTER.format(time));// parse when constructing, but then there is setTime(time: String)
+        //            this.setInstruction(instruction);
+        //        }catch(ParseException e){
+        //            e.printStackTrace();
+        //
+        //            LOGGER.info("Rush time must be yyyy/MM/dd HH:mm:ss");
+        //        }
     }
 
     public String getInstruction(){
@@ -79,6 +80,7 @@ public class RushInfo{
 
     /**
      * setter
+     *
      * @param instruction rush instruction
      */
     public void setInstruction(String instruction){
@@ -91,6 +93,7 @@ public class RushInfo{
 
     /**
      * setter
+     *
      * @param time rush time
      */
     public void setTime(Date time){
@@ -100,6 +103,7 @@ public class RushInfo{
     /**
      * set rush time in string
      * this is for convenient when using empty constructor, use time in string format for easy readable
+     *
      * @param time time in string, must be yyyy/MM/dd HH:mm:ss
      * @throws ParseException if parsing get error
      */

@@ -2,105 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f628729-cdd2-475d-90c9-080310327aa8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/7.1.1/dependencies-accessors/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.1.1/executionHistory/executionHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.1.1/fileChanges/last-build.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.1.1/fileHashes/fileHashes.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.1.1/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/com/example/aims/AIMS-logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/com/example/aims/CD1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/com/example/aims/CD2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/com/example/aims/CD3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/com/example/aims/CD4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/com/example/aims/DVD1.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/com/example/aims/DVD2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/com/example/aims/DVD3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/com/example/aims/DVD4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/com/example/aims/IT4490-710808-20183976-NguyenHongSon-Tuan6.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/com/example/aims/alice.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/com/example/aims/cart.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/com/example/aims/cart.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/com/example/aims/hello-view.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/com/example/aims/home.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/com/example/aims/hp-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/com/example/aims/hp-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/com/example/aims/hp-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/com/example/aims/hp-4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/com/example/aims/hp-5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/com/example/aims/hp-6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/com/example/aims/hp-7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/com/example/aims/hp-fb.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/com/example/aims/invoice.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/com/example/aims/lab2.asta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/com/example/aims/narnia.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/com/example/aims/payment.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/com/example/aims/payment_result.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/com/example/aims/rush.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/com/example/aims/shipping.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/com/example/aims/splash.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/com/example/aims/tlotr.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/com/example/aims/treasure_island.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/jar/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/aims/HelloApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/aims/HelloController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/aims/controller/CartController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/aims/controller/DeliveryController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/aims/controller/HomeController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/aims/controller/InvoiceController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/aims/controller/PaymentController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/aims/controller/PaymentResultController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/aims/controller/RushController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/aims/controller/SceneController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/aims/controller/SplashController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/aims/AIMS-logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/aims/CD1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/aims/CD2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/aims/CD3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/aims/CD4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/aims/DVD1.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/aims/DVD2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/aims/DVD3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/aims/DVD4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/aims/IT4490-710808-20183976-NguyenHongSon-Tuan6.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/aims/alice.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/aims/cart.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/aims/cart.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/aims/hello-view.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/aims/home.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/aims/hp-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/aims/hp-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/aims/hp-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/aims/hp-4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/aims/hp-5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/aims/hp-6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/aims/hp-7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/aims/hp-fb.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/aims/invoice.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/aims/lab2.asta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/aims/narnia.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/aims/payment.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/aims/payment_result.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/aims/rush.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/aims/shipping.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/aims/splash.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/aims/tlotr.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/aims/treasure_island.jpg" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controller/PlaceOrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controller/PlaceOrderController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controller/PlaceRushOrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controller/PlaceRushOrderController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entity/order/RushInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entity/order/RushInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/Configs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/Configs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/fxml/invoice.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/fxml/invoice.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/screen/FXMLScreenHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/screen/FXMLScreenHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/screen/invoice/InvoiceScreenHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/screen/invoice/InvoiceScreenHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/controller/PlaceRushOrderControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/controller/PlaceRushOrderControllerTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,10 +40,12 @@
   <component name="ProjectId" id="21w8qr8vLEkXIEa8wpUJqxzSuJo" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DatabaseDriversLRU" value="sqlite" />
     <property name="Downloaded.Files.Path.Enabled" value="true" />
     <property name="Repository.Attach.Annotations" value="false" />
@@ -140,6 +53,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
@@ -148,7 +62,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.16281755" />
     <property name="project.structure.side.proportion" value="0.19337016" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JavaScript" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
@@ -333,14 +247,27 @@
       <workItem from="1638863070330" duration="221000" />
       <workItem from="1638888416513" duration="3505000" />
       <workItem from="1638971933515" duration="3901000" />
-      <workItem from="1638975969869" duration="299000" />
+      <workItem from="1638975969869" duration="750000" />
+      <workItem from="1639059176128" duration="4629000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <ignored-roots>
       <path value="$PROJECT_DIR$/../.." />
     </ignored-roots>

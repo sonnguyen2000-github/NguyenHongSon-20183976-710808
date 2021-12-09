@@ -1,6 +1,7 @@
 package controller;
 
 import java.text.DateFormat;
+import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.logging.Logger;
@@ -39,6 +40,17 @@ public class PlaceRushOrderController extends BaseController{
         LOGGER.info("Validating rush time: " + DATE_FORMATTER.format(date) + " at " + DATE_FORMATTER.format(now));
         // if rush date is more than 2 hour from now
         return (date.getTime() - now.getTime()) > 2 * 60 * 60 * 1000;
+    }
+
+    /**
+     * validate rush time (at least after 2h from checked out time for preparation)
+     *
+     * @param date date in format yyyy/MM/dd HH:mm:ss
+     * @exception ParseException if parsing failed
+     * @return
+     */
+    public static boolean validateTime(String date) throws ParseException{
+        return validateTime(DATE_FORMATTER.parse(date));
     }
 
 }
