@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f628729-cdd2-475d-90c9-080310327aa8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/controller/PlaceOrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controller/PlaceOrderController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/controller/PlaceRushOrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controller/PlaceRushOrderController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/entity/order/RushInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entity/order/RushInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/utils/Configs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/Configs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/fxml/invoice.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/fxml/invoice.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/screen/FXMLScreenHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/screen/FXMLScreenHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/screen/invoice/InvoiceScreenHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/screen/invoice/InvoiceScreenHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/controller/PlaceRushOrderControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/controller/PlaceRushOrderControllerTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -248,7 +239,8 @@
       <workItem from="1638888416513" duration="3505000" />
       <workItem from="1638971933515" duration="3901000" />
       <workItem from="1638975969869" duration="750000" />
-      <workItem from="1639059176128" duration="4629000" />
+      <workItem from="1639059176128" duration="5101000" />
+      <workItem from="1639064893003" duration="114000" />
     </task>
     <servers />
   </component>
@@ -265,6 +257,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
