@@ -1,26 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7f628729-cdd2-475d-90c9-080310327aa8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/controller/PaymentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controller/PaymentController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/controller/PlaceOrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controller/PlaceOrderController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/entity/media/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entity/media/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/entity/media/CD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entity/media/CD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/entity/media/DVD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entity/media/DVD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/entity/payment/CreditCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entity/payment/CreditCard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/entity/payment/PaymentTransaction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entity/payment/PaymentTransaction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/subsystem/InterbankInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/subsystem/InterbankInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/subsystem/InterbankSubsystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/subsystem/InterbankSubsystem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/subsystem/interbank/InterbankSubsystemController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/subsystem/interbank/InterbankSubsystemController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/utils/API.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/API.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/fxml/invoice.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/fxml/invoice.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/fxml/payment.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/fxml/payment.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/fxml/shipping.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/fxml/shipping.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/screen/invoice/InvoiceScreenHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/screen/invoice/InvoiceScreenHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/screen/rush/RushScreenHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/screen/rush/RushScreenHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/screen/shipping/ShippingScreenHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/screen/shipping/ShippingScreenHandler.java" afterDir="false" />
-    </list>
+    <list default="true" id="7f628729-cdd2-475d-90c9-080310327aa8" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -224,7 +205,7 @@
       <workItem from="1640065106980" duration="17164000" />
       <workItem from="1640319216586" duration="5177000" />
       <workItem from="1640401587193" duration="614000" />
-      <workItem from="1640409748968" duration="1843000" />
+      <workItem from="1640409748968" duration="2437000" />
     </task>
     <servers />
   </component>
